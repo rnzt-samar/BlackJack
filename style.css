@@ -1,0 +1,99 @@
+.btn{
+    width: 125px;
+    height:65px;
+    font-size: 18px;
+    outline:none;
+    border:1px solid #fff;
+    border-radius: 5px;
+    color:white;
+    margin:5px;
+    cursor: pointer;
+
+}
+.btn-primary{
+    background-color: blue;
+}
+.btn-warning{
+    background-color: yellow;
+    color:black;
+}
+.btn-danger{
+    background-color: red;
+}
+
+.container{
+    width:75%;
+    margin:0 auto;
+    text-align: center;
+    border: 1px solid #000;
+}
+.flex-blackjack-row-1 , .flex-blackjack-row-2,.flex-blackjack-row-3{
+    display:flex;
+    border: 1px solid black;
+    padding:10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.flex-blackjack-row-1 ,.flex-blackjack-row-2{ 
+    background: url('images/background.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+.flex-blackjack-row-1 div{
+    border: 1px solid #ffffff;
+    padding: 10px;
+    height:350px;
+    text-align: center;
+    flex:1;
+}
+.flex-blackjack-row-1 img{
+    width:25%;
+    padding: 10px;
+
+}
+.flex-blackjack-row-2 div{
+padding:10px;
+border: 1px solid #fff;
+}
+table ,th,td{
+    border: 1px solid #000;
+    padding:1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
